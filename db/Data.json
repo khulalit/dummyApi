@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Advanced JavaScript",
+      "instructor": "Jane Smith",
+      "description": "Deep dive into advanced JavaScript concepts.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "6 weeks",
+      "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Intermediate JavaScript knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Closures and Scopes",
+          "content": "Understanding closures and lexical scoping."
+        },
+        {
+          "week": 2,
+          "topic": "Asynchronous JavaScript",
+          "content": "Working with asynchronous code using callbacks and promises."
+        }
+      ],
+      "students": [
+        {
+          "id": 201,
+          "name": "Charlie Brown",
+          "email": "charlie@example.com"
+        },
+        {
+          "id": 202,
+          "name": "Daisy Johnson",
+          "email": "daisy@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Data Science Fundamentals",
+      "instructor": "Alice Lee",
+      "description": "Explore the fundamentals of data science and analysis.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "10 weeks",
+      "schedule": "Fridays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": ["Basic statistics knowledge", "Programming skills"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Data Science",
+          "content": "Overview of data science and its applications."
+        },
+        {
+          "week": 2,
+          "topic": "Data Cleaning and Preprocessing",
+          "content": "Techniques for cleaning and preprocessing data."
+        }
+      ],
+      "students": [
+        {
+          "id": 301,
+          "name": "Eva Martinez",
+          "email": "eva@example.com"
+        },
+        {
+          "id": 302,
+          "name": "Frank Wilson",
+          "email": "frank@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Web Development Bootcamp",
+      "instructor": "Mike Johnson",
+      "description": "Intensive bootcamp covering full-stack web development.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "12 weeks",
+      "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML, CSS, and JavaScript knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Web Development",
+          "content": "Overview of web development technologies and tools."
+        },
+        {
+          "week": 2,
+          "topic": "Frontend Development with React",
+          "content": "Building interactive user interfaces with React."
+        }
+      ],
+      "students": [
+        {
+          "id": 401,
+          "name": "Grace Chen",
+          "email": "grace@example.com"
+        },
+        {
+          "id": 402,
+          "name": "Harry Brown",
+          "email": "harry@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mobile App Design",
+      "instructor": "Sarah Miller",
+      "description": "Learn the principles of designing user-friendly mobile applications.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "your.image.here",
+      "duration": "8 weeks",
+      "schedule": "Wednesdays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": ["Basic design knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Mobile Design",
+          "content": "Fundamental principles of mobile app design."
+        },
+        {
+          "week": 2,
+          "topic": "UI/UX Design for Mobile",
+          "content": "Creating intuitive and user-friendly interfaces."
+        }
+      ],
+      "students": [
+        {
+          "id": 501,
+          "name": "Ivy Johnson",
+          "email": "ivy@example.com"
+        },
+        {
+          "id": 502,
+          "name": "Jack Davis",
+          "email": "jack@example.com"
+        }
+      ]
+    }
+  ]
+  
